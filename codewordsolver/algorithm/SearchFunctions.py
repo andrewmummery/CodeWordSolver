@@ -303,7 +303,7 @@ def letters_no_answer(word, answers, indices_non_letters):
         !!BUG!!
         
         This function has a slight bug in that it can return the same letter twice 
-        this is compensated for in simple_solve, but should be sorted here.
+        this is compensated for in solver_1, but should be sorted here.
          
     """
 

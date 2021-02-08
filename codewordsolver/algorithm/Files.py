@@ -117,13 +117,6 @@ def save_result(solved_letters, solved_numbers, words_to_solve, code_filename='c
             
     f2.close()
   
-    # if print_result:
-    #     print()
-    #     print('The solved words are ...')
-    #     print()
-    #     with open(solved_words_filename) as f2:
-    #         for line in f2:
-    #             print(line)
     
 
     

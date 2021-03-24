@@ -1,0 +1,46 @@
+# In this file type each of the encoded 'words'
+# from the puzzle. The CodeWordSolver will use these
+# 'words' to decrypt the puzzle.
+#
+# Each new word must be input on a new line. 
+#
+# These words must be typed in the format
+# number1, number2, number3, ...
+# 
+# e.g. 
+# 1,6,17,17,3,26
+# 21,8,4,5,12,11
+# etc.....
+# 
+# Do not include any pre-solved letters at 
+# this point. Exclusively numbers.
+#
+# Write information below, with no # at the start of the line.     
+5,10,24,24,22
+25,14,2,5,12,2,14
+19,14,18,4,4,10,7
+2,17,5,20,13
+20,24,14,6
+12,2,23,2,11,13,1
+13,24,26,14,2,14
+12,13,5,11,20,2
+5,20,21,26,18,14,2
+8,2,12,13
+12,15,5,9,11
+5,12,15,18,14,18,11
+14,2,15,10,2,13,2
+13,1,7,3,2
+5,16,19,18,20,5,13,2
+13,12,5,14
+24,12,18,2,14
+26,11,20,10,5,12,15
+22,26,4,4
+12,2,21,26,2,11,20,2
+25,2,7,12,2,14
+24,14,11,5,13,2
+2,10,2,23,2,11,13,1
+12,15,18,13
+12,3,5,14,13,2,11
+2,5,14,10,7
+14,24,13,5
+12,2,11,13,2,11,20,2

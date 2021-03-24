@@ -1,0 +1,13 @@
+# Write any decoded letters and the number they correspond to
+# in this file.
+#
+# These can be letters you are given at the start
+# of the puzzle or ones you have worked out 
+#
+# The format they should be written in is
+#  'number' 'equals' 'letter'.
+#  e.g. 10 = e
+# 
+# often no initial letters are required to break the code. 
+# 
+# Write information below, with no # at the start of the line.

@@ -13,7 +13,7 @@
 ### How do I use? ###
 
 #### Step 1: Get yourself a Codeword puzzle
-[](https://github.com/andrewmummery/CodeWordSolver/blob/main/tst/trial9/Puzzle9.png)
+![](https://github.com/andrewmummery/CodeWordSolver/blob/main/tst/trial9/Puzzle9.png)
 
 #### Step 2: Open a python terminal and set up the problem
 2a) import codeword solver and use codewordsolver.get_blanck_puzzle_files()

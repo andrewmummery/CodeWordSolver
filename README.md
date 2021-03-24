@@ -16,13 +16,13 @@
 <img src="https://github.com/andrewmummery/CodeWordSolver/blob/main/tst/trial9/Puzzle9.png" width="850" height="500">
 
 #### Step 2: Open a python terminal and set up the problem
-2a) import codewordsolver and use codewordsolver.get_blanck_puzzle_files()
+2a) import codewordsolver and use codewordsolver.get_blank_puzzle_files()
 
 2b) Fill in 'words_to_find.txt' with all the encrypted words in the puzzle
 
 ![](https://github.com/andrewmummery/CodeWordSolver/blob/main/example_words_to_find.png)
 2c) Then fill in the 'initial_information.txt' file with any letters given to you at the start.
-Surprsingly, the algorithms barely ever need any information to sovle the puzzle, so this can often be left blanck
+Surprisingly, the algorithm barely ever needs any information to actually solve the puzzle, so this can often be left blank
 ![](https://github.com/andrewmummery/CodeWordSolver/blob/main/example_initial_information.png)
 
 #### Step 3: Use codewordsolver to solve the puzzle 
